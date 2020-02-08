@@ -2,18 +2,16 @@
 title: Java tricks
 date: 2020-01-15 18:14:20
 categories:
-- Tricks
+- tricks
 - Java
 tags:
-- Tricks
+- tricks
 - Java
 ---
 
 [toc]
 
 <!--more-->
-想见你 8
-夏目 11
 
 # 2020年1月20日(星期一)
 
@@ -47,7 +45,7 @@ Jackson 和 Gson
 
 ### 四、通用类库
 
-例如 Apache Commons 和 Google Guava 。
+例如 Apache Commons 和 Google Guava。
 
 ### 五、Http 库
 
@@ -94,7 +92,7 @@ javax.mail 和 Apache Commons Email 提供了发送邮件的 API。它们建立�
 
 ### 十五、HTML 解析库
 
-jsoup 可以解析 HTML，创建 HTML 文档。
+jsoup 可以解析 HTML，创建 HTML 文档
 
 ### 十六、加密库
 

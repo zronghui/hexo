@@ -2,10 +2,10 @@
 title: Python tricks
 date: 2020-01-15 16:36:18
 categories:
-- Tricks
+- tricks
 - Python
 tags:
-- Tricks
+- tricks
 - Python
 ---
 

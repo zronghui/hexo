@@ -12,6 +12,9 @@ tags:
 
 <!--more-->
 
+[georgek42/inlinec: Effortlessly write inline C functions in Python](https://github.com/georgek42/inlinec)
+[maxhumber/gif: ✨ Better animated Matplotlib gifs](https://github.com/maxhumber/gif)
+
 ## [syncPlaylist](https://github.com/Denon/syncPlaylist) 
 
 在网易云音乐与 QQ 音乐之间同步歌单。易于使用、配置方便、代码简单，用到的技术：`requests` + `beautifulsoup` 以及 `selenium` + `phantomjs`

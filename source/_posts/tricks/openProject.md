@@ -2,7 +2,9 @@
 title: openProject
 date: 2020-01-20 23:03:49
 categories:
+- tricks
 tags:
+- tricks
 ---
 
 [toc]
