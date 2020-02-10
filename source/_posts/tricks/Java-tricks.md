@@ -13,6 +13,71 @@ tags:
 
 <!--more-->
 
+# 02-09
+
+
+
+### 写 Excel word 
+
+[Java POI Excel - Java代码实例™](https://www.yiibai.com/javaexamples/java_apache_poi_excel.html)
+[Java POI Word - Java代码实例™](https://www.yiibai.com/javaexamples/java_apache_poi_word.html)
+
+### 写pdf
+
+[Java iText示例 - Java代码实例™](https://www.yiibai.com/javaexamples/java_itext.html)
+
+### 读 PDF XML HTML
+
+[Apache Tika示例 - Java代码实例™](https://www.yiibai.com/javaexamples/java_apache_tika.html)
+
+### 目录 文件处理
+
+[Java目录 - Java代码实例™](https://www.yiibai.com/javaexamples/java_directories.html)
+
+了解如何在Java编程中访问和操作目录。下面是有关Java编程中访问和操作目录最常用的例子 -
+
+| 示例                                                         |
+| ------------------------------------------------------------ |
+| [如何递归创建目录？](http://www.yiibai.com/javaexamples/dir_create.html) |
+| [如何删除目录？](http://www.yiibai.com/javaexamples/dir_delete.html) |
+| [如何确定一个目录是否为空？](http://www.yiibai.com/javaexamples/dir_empty.html) |
+| [如何确定目录是否隐藏？](http://www.yiibai.com/javaexamples/dir_hidden.html) |
+| [如何打印目录层次结构？](http://www.yiibai.com/javaexamples/dir_hierarchy.html) |
+| [如何打印目录的最后修改时间？](http://www.yiibai.com/javaexamples/dir_modification.html) |
+| [如何获取文件的父目录？](http://www.yiibai.com/javaexamples/dir_parent.html) |
+| [如何搜索目录中的所有文件？](http://www.yiibai.com/javaexamples/dir_search.html) |
+| [如何获取目录的大小？](http://www.yiibai.com/javaexamples/dir_size.html) |
+| [如何遍历目录？](http://www.yiibai.com/javaexamples/dir_traverse.html) |
+| [如何查找当前工作目录？](http://www.yiibai.com/javaexamples/dir_current.html) |
+| [如何在系统中显示根目录？](http://www.yiibai.com/javaexamples/dir_root.html) |
+| [如何在目录中搜索文件？](http://www.yiibai.com/javaexamples/dir_search_file.html) |
+| [如何显示目录中的所有文件？](http://www.yiibai.com/javaexamples/dir_sub.html) |
+| [如何显示目录中的所有目录？](http://www.yiibai.com/javaexamples/dir_display.html) |
+
+[Java文件 - Java代码实例™](https://www.yiibai.com/javaexamples/java_files.html)
+
+了解如何使用Java编程中的文件操作。下面是常用的一些例子 -
+
+| 示例                                                         |
+| ------------------------------------------------------------ |
+| [如何比较两个文件的路径？](http://www.yiibai.com/javaexamples/file_compare.html) |
+| [如何创建新文件？](http://www.yiibai.com/javaexamples/file_create.html) |
+| [如何获取文件的最后修改日期？](http://www.yiibai.com/javaexamples/file_date.html) |
+| [如何在指定的目录中创建文件？](http://www.yiibai.com/javaexamples/file_dir.html) |
+| [如何检查文件是否存在？](http://www.yiibai.com/javaexamples/file_exist.html) |
+| [如何设置文件为只读？](http://www.yiibai.com/javaexamples/file_read_only.html) |
+| [如何重命名文件？](http://www.yiibai.com/javaexamples/file_rename.html) |
+| [如何获取文件大小(以字节为单位)？](http://www.yiibai.com/javaexamples/file_size.html) |
+| [如何更改文件的最后修改时间？](http://www.yiibai.com/javaexamples/file_date_modify.html) |
+| [如何创建一个临时文件？](http://www.yiibai.com/javaexamples/file_create_temp.html) |
+| [如何向现有文件中附加一个字符串？](http://www.yiibai.com/javaexamples/file_append.html) |
+| [如何将一个文件复制到另一个文件？](http://www.yiibai.com/javaexamples/file_copy.html) |
+| [如何删除文件？](http://www.yiibai.com/javaexamples/file_delete.html) |
+| [如何读取一个文件？](http://www.yiibai.com/javaexamples/file_read.html) |
+| [如何写入一个文件？](http://www.yiibai.com/javaexamples/file_write.html) |
+
+
+
 # 2020年1月20日(星期一)
 
 #### JMeter

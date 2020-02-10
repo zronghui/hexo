@@ -391,3 +391,10 @@ Barsoom lets you hide any third-party icon in your menu bar. You can also rearra
 [VISIT](https://seense.com/barsoom/) [WATCH](https://youtu.be/xJjzwF4n8cI)
 
 [Barsoom 3.0 菜单栏管理 - 精品MAC应用分享](https://xclient.info/s/barsoom.html)
+
+[Videoder -免费和最快速的优酷视频下载](https://www.videoder.com/zh)
+[SuperBar - 自定义 macOS 菜单栏，书签、命令行、代码片段... - 小众软件](https://www.appinn.com/superbar-for-macos/)
+[Background Music – 当开始播放视频时，自动暂停背景音乐，视频结束音乐起[macOS] - 小众软件](https://www.appinn.com/background-music-for-macos/)
+[HOME | Superbar](https://www.superbar.app/)
+[Raccoon - 从 Play 商店下载 Android 应用安装文件 .apk - 小众软件](https://www.appinn.com/raccoon-downloadapk/)
+[Tern - 字幕组机翻小助手：自动翻译英文字幕为中英双语字幕[Win/macOS] - 小众软件](https://www.appinn.com/tern-subtitle-file-translator/)
