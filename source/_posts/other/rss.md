@@ -35,23 +35,25 @@ Reeder
 
 [介绍 | RSSHub](https://docs.rsshub.app/)
 
+[打造属于自己的RSS源 - 萤火之森](http://frankorz.com/2016/10/01/rss-tutor/)
+
 [RSS定制个人高质量信息流 - 简书](https://www.jianshu.com/p/b9f14d8218bf)
 
 [生成和订阅任意网站RSS工具-实现RSS全文,邮箱和手机APP提醒](https://wzfou.com/rss-any/)
 
-[打造属于自己的RSS源 - 萤火之森](http://frankorz.com/2016/10/01/rss-tutor/)
+
+
+### 查看浏览器中网页编码的通用方法
+
+找到Console标签，输入命令document.charset
 
 ## 需要订阅的网站
+
+### 编程
 
 [科技爱好者周刊 · 语雀](https://www.yuque.com/ruanyf/weekly)
 
 -- https://rsshub.app/yuque/doc/102804
-
-
-
-[Recently Added - MacMenuBar.com](https://macmenubar.com/recently-added/page/36/)
-
--- 
 
 
 
@@ -67,15 +69,31 @@ Reeder
 
 
 
-[帖子回复排行 - 排行榜 - 吾爱破解 - LCG - LSG |安卓破解|病毒分析|破解软件|www.52pojie.cn](https://www.52pojie.cn/misc.php?mod=ranklist&type=thread&view=replies&orderby=today)
-
--- 
-
-
-
 [Weekly Review | Baeldung](https://www.baeldung.com/category/weekly-review/)
 
 -- https://www.baeldung.com/feed
+
+
+
+
+
+[最近7天热门分享 - 开发者头条](https://toutiao.io/posts/hot/7)
+
+-- https://feed43.com/8633017563184185.xml
+
+
+
+### 软件
+
+[Recently Added - MacMenuBar.com](https://macmenubar.com/recently-added/page/36/)
+
+-- https://macmenubar.com/feed/
+
+
+
+[帖子回复排行 - 排行榜 - 吾爱破解 - LCG - LSG |安卓破解|病毒分析|破解软件|www.52pojie.cn](https://www.52pojie.cn/misc.php?mod=ranklist&type=thread&view=replies&orderby=today)
+
+-- https://feed43.com/3380182813145783.xml
 
 
 
@@ -87,13 +105,13 @@ Reeder
 
 [果核剥壳 - 还原软件的本质](https://www.ghpym.com/)
 
--- 
+-- https://feed43.com/4874650357564440.xml
 
 
 
 [分享者 - 优质破解软件、互联网资源分享](http://www.sharerw.com/)
 
--- 
+-- https://feed43.com/4223122352386404.xml
 
 
 
@@ -105,7 +123,7 @@ Reeder
 
 [【最美应用】 - Android 一起发现好用、好看、好玩的应用](http://zuimeia.com/apps/?platform=2)
 
--- 
+-- https://feed43.com/3860164582806815.xml
 
 
 
@@ -117,59 +135,71 @@ Reeder
 
 [反斗软件](http://www.apprcn.com/)
 
--- 
+-- https://feed43.com/6686431683726277.xml
 
 
 
 [精品绿色便携软件](https://www.portablesoft.org/)
 
--- 
+-- https://feed43.com/7557338185735120.xml
 
 
 
 [芊芊精典 | 优质互联网资源分享与交流！](https://myqqjd.com/)
 
--- 
+-- https://feed43.com/3512786450224168.xml
 
 
 
 [不死鸟 - 分享为王](https://hao.su/)
 
--- 
+-- https://feed43.com/8584272185423565.xml
 
 
 
 [盒子部落 - 互联网资源分享平台](https://www.hezibuluo.com/)
 
--- 
+-- https://feed43.com/8107787027631862.xml
 
 
 
 [安卓应用 - 大眼仔旭](http://www.dayanzai.me/android)
 
--- 
-
-
+-- https://feed43.com/1652573841537568.xml
 
 
 
 [异星软件空间 | 感受不一样的精彩体验！](http://yx.bsh.me/)
 
--- 
+-- https://feed43.com/0450245615005046.xml
+
+编码看似有问题，实际没问题
 
 
 
 [编者序 · Chrome插件英雄榜](https://zhaoolee.gitbooks.io/chrome/content/)
 
--- 
-
-
+-- https://feed43.com/0273635824543181.xml
 
 
 
 [精品MAC应用分享](https://xclient.info/?t=9ca8a9c6c21281cb0d038326f37270b381d307ff)
 
+-- https://feed43.com/8857213541600761.xml
+
+
+
+[一梦全网线报软件发布群](https://www.lanzous.com/b60586)
+
 -- 
+
+网址发送 post 请求
+
+### 其他
+
+[介绍 | RSSHub](https://docs.rsshub.app/)
+
+-- https://rsshub.app/rsshub/rss
 
 
 
@@ -179,31 +209,9 @@ Reeder
 
 
 
-[一梦全网线报软件发布群](https://www.lanzous.com/b60586)
-
--- 
-
-
-
-[Trending Python repositories on GitHub today](https://github.com/trending/python?since=daily)
-
--- 
-
-
-
-[最近7天热门分享 - 开发者头条](https://toutiao.io/posts/hot/7)
-
--- 
-
-
-
-
-
 [无作为|分享不仅仅是一种态度！](https://www.wuzuowei.net/)
 
--- 
-
-
+-- https://feed43.com/7114536122142655.xml
 
 
 
@@ -219,17 +227,21 @@ Reeder
 
 
 
-
-
 [楚盟网 – 记录学习分享的个人网站](https://www.5yun.org/)
 
 -- 
 
 
 
-[介绍 | RSSHub](https://docs.rsshub.app/)
+[Trending Python repositories on GitHub today](https://github.com/trending/python?since=daily)
 
--- https://rsshub.app/rsshub/rss
+-- 
+
+
+
+### 最终效果
+
+<img src="/Users/zhangronghui/Library/Application Support/typora-user-images/image-20200211153737973.png" alt="image-20200211153737973" style="zoom:40%;" />
 
 
 
