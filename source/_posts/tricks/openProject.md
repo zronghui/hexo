@@ -17,6 +17,26 @@ tags:
 
 
 
+在线office编辑： [http://yiqixie.com](https://link.zhihu.com/?target=http%3A//yiqixie.com)
+
+在线latex编辑: [Overleaf, Online LaTeX Editor](https://link.zhihu.com/?target=http%3A//www.overleaf.com)
+
+在线markdown编辑：[http://zybuluo.com](https://link.zhihu.com/?target=http%3A//zybuluo.com)
+
+在线json解析: [http://json.cn](https://link.zhihu.com/?target=http%3A//json.cn)
+
+在线正则表达式解析: [http://regex101.com](https://link.zhihu.com/?target=http%3A//regex101.com)
+
+博客订阅：[http://theoldreader.com](https://link.zhihu.com/?target=http%3A//theoldreader.com)
+
+代码库：[http://github.com](https://link.zhihu.com/?target=http%3A//github.com)
+
+英文语法检查：[https://grammarly.com](https://link.zhihu.com/?target=https%3A//www.grammarly.com/)
+
+词典：[http://youdao.com](https://link.zhihu.com/?target=http%3A//youdao.com)
+
+图片编辑：[http://pixlr.com/editor/](https://link.zhihu.com/?target=http%3A//pixlr.com/editor/)
+
 [GitHub Marketplace · Tools to improve your workflow](https://github.com/marketplace/category/free)
 [程序员实用工具，推荐一款代码统计神器GitStats-云栖社区-阿里云](https://yq.aliyun.com/articles/730300)
 [推荐一个非常实用的学习 GitHub 的软件 | Laravel China 社区](https://learnku.com/articles/5773/recommend-a-very-practical-learning-github-software)

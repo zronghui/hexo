@@ -321,13 +321,13 @@ deploy:
 
 [**百度统计**](https://tongji.baidu.com/web/welcome/login) 能方便的完成网站访问量分析统计，本文简单演示下Hexo+Next博客配置百度统计功能。
 
-### 开通百度统计帐号
+**开通百度统计帐号**
 
 在 [**百度统计**](https://tongji.baidu.com/web/welcome/login) 注册帐号。
 
 帐号注册成功后，在网站列表中添加目标网站。
 
-### 获取跟踪代码
+**获取跟踪代码**
 
 网站添加之后在代码管理模块选择代码获取，可以看到如下代码:
 
@@ -347,7 +347,7 @@ var _hmt = _hmt || [];
 
 其中 hm.js? 后面的字符串为用户的 key 值，将 key 值记录下来，后面会用到。
 
-### 配置主题配置文件
+**配置主题配置文件**
 
 配置主题配置文件 /d/hexo/themes/next/_config.yml ，配置 baidu_analytics 参数，如下:
 
@@ -358,7 +358,7 @@ baidu_analytics: 上面步骤中记录的百度统计里用户的key值。
 
 修改完参数后执行 `hexo g` 和 `hexo d` 命令部署博客。
 
-### 验证百度统计
+**验证百度统计**
 
 之后仍然在代码管理模块的代码获取页面进行验证，如下图:
 
@@ -372,7 +372,8 @@ baidu_analytics: 上面步骤中记录的百度统计里用户的key值。
 
 
 
-
+[网站列表 - 网站中心](https://tongji.baidu.com/sc-web/10000142524/home/site/index?from=3)
+[网站概况 - 百度统计](https://tongji.baidu.com/web/10000142524/overview/index?siteId=14367916)
 
 ## 评论
 

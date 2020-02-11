@@ -1,0 +1,241 @@
+---
+title: rss
+description: rss
+date: 2020-02-10 17:40:18
+categories:
+tags:
+---
+
+[toc]
+
+## 工具
+
+### rss 验证
+
+[Feed Validator](http://validator.w3.org/feed/check.cgi?url=https://www.yuque.com/ruanyf/weekly)
+
+### 网页版
+
+[The Old Reader](https://theoldreader.com/)
+
+### Mac 
+
+Reeder
+
+### Chrome 插件 查看当前网站可用 RSS
+
+[RSSHub Radar - Chrome 网上应用店](https://chrome.google.com/webstore/detail/rsshub-radar/kefjpfngnndepjbopdmoebkipbgkggaa)
+
+### 生成 RSS
+
+[Full RSS - Full text rss feed generator 100% success & free](https://www.freefullrss.com/)
+[Feed43 : Zronghui's feeds](https://feed43.com/users/zronghui)
+
+### 相关教程
+
+[介绍 | RSSHub](https://docs.rsshub.app/)
+
+[RSS定制个人高质量信息流 - 简书](https://www.jianshu.com/p/b9f14d8218bf)
+
+[生成和订阅任意网站RSS工具-实现RSS全文,邮箱和手机APP提醒](https://wzfou.com/rss-any/)
+
+[打造属于自己的RSS源 - 萤火之森](http://frankorz.com/2016/10/01/rss-tutor/)
+
+## 需要订阅的网站
+
+[科技爱好者周刊 · 语雀](https://www.yuque.com/ruanyf/weekly)
+
+-- https://rsshub.app/yuque/doc/102804
+
+
+
+[Recently Added - MacMenuBar.com](https://macmenubar.com/recently-added/page/36/)
+
+-- 
+
+
+
+[guanguans/favorite-link: ❤️ 每日收集喜欢的开源项目 | RSS 订阅 | 快知 app 订阅](https://github.com/guanguans/favorite-link)
+
+-- https://rsshub.app/github/file/guanguans/favorite-link/master/README.md
+
+
+
+[521xueweihan/HelloGitHub: Find pearls on open-source seashore 分享 GitHub 上有趣、入门级的开源项目](https://github.com/521xueweihan/HelloGitHub)
+
+-- https://rsshub.app/github/file/521xueweihan/HelloGitHub/master/README.md
+
+
+
+[帖子回复排行 - 排行榜 - 吾爱破解 - LCG - LSG |安卓破解|病毒分析|破解软件|www.52pojie.cn](https://www.52pojie.cn/misc.php?mod=ranklist&type=thread&view=replies&orderby=today)
+
+-- 
+
+
+
+[Weekly Review | Baeldung](https://www.baeldung.com/category/weekly-review/)
+
+-- https://www.baeldung.com/feed
+
+
+
+[原创工具 - 『原创发布区』](https://www.52pojie.cn/forum.php?mod=forumdisplay&fid=2&filter=typeid&typeid=4)
+
+-- https://www.52pojie.cn/forum.php?mod=rss&fid=2
+
+
+
+[果核剥壳 - 还原软件的本质](https://www.ghpym.com/)
+
+-- 
+
+
+
+[分享者 - 优质破解软件、互联网资源分享](http://www.sharerw.com/)
+
+-- 
+
+
+
+[小众软件 - 分享免费、小巧、实用、有趣、绿色的软件](https://www.appinn.com/)
+
+-- http://feeds.appinn.com/appinns/
+
+
+
+[【最美应用】 - Android 一起发现好用、好看、好玩的应用](http://zuimeia.com/apps/?platform=2)
+
+-- 
+
+
+
+[异次元软件世界 - 软件改变生活！](https://www.iplaysoft.com/)
+
+-- https://feed.iplaysoft.com
+
+
+
+[反斗软件](http://www.apprcn.com/)
+
+-- 
+
+
+
+[精品绿色便携软件](https://www.portablesoft.org/)
+
+-- 
+
+
+
+[芊芊精典 | 优质互联网资源分享与交流！](https://myqqjd.com/)
+
+-- 
+
+
+
+[不死鸟 - 分享为王](https://hao.su/)
+
+-- 
+
+
+
+[盒子部落 - 互联网资源分享平台](https://www.hezibuluo.com/)
+
+-- 
+
+
+
+[安卓应用 - 大眼仔旭](http://www.dayanzai.me/android)
+
+-- 
+
+
+
+
+
+[异星软件空间 | 感受不一样的精彩体验！](http://yx.bsh.me/)
+
+-- 
+
+
+
+[编者序 · Chrome插件英雄榜](https://zhaoolee.gitbooks.io/chrome/content/)
+
+-- 
+
+
+
+
+
+[精品MAC应用分享](https://xclient.info/?t=9ca8a9c6c21281cb0d038326f37270b381d307ff)
+
+-- 
+
+
+
+[少数派 - 高效工作，品质生活](https://sspai.com/)
+
+-- https://sspai.com/feed
+
+
+
+[一梦全网线报软件发布群](https://www.lanzous.com/b60586)
+
+-- 
+
+
+
+[Trending Python repositories on GitHub today](https://github.com/trending/python?since=daily)
+
+-- 
+
+
+
+[最近7天热门分享 - 开发者头条](https://toutiao.io/posts/hot/7)
+
+-- 
+
+
+
+
+
+[无作为|分享不仅仅是一种态度！](https://www.wuzuowei.net/)
+
+-- 
+
+
+
+
+
+[電腦王阿達](https://www.kocpc.com.tw/)
+
+-- https://www.kocpc.com.tw/feed
+
+
+
+[电脑玩物](https://www.playpcesor.com/)
+
+-- 
+
+
+
+
+
+[楚盟网 – 记录学习分享的个人网站](https://www.5yun.org/)
+
+-- 
+
+
+
+[介绍 | RSSHub](https://docs.rsshub.app/)
+
+-- https://rsshub.app/rsshub/rss
+
+
+
+
+
+
+
+
+

@@ -12,6 +12,127 @@ tags:
 [toc]
 
 <!--more-->
+# 02-10
+
+neovim: 新时代的 vim，我在这个配置([https://github.com/PegasusWang/vim-config](https://link.zhihu.com/?target=https%3A//github.com/PegasusWang/vim-config))上自定义了自己的配置，使用起来性能和反应速度上远超原生的老古董 vim
+
+meld/vimdiff: 文本比对工具。
+
+tmux/tmuxp
+
+- wemux: tmux 共享，[https://github.com/zolrath/wemux](https://link.zhihu.com/?target=https%3A//github.com/zolrath/wemux)
+- sshfs: 本地挂在服务器文件夹
+- tmate: [https://tmate.io](https://link.zhihu.com/?target=https%3A//tmate.io/) 终端共享工具，结对编程。很多现代化编辑器 vscode, atom 提供结对编程的插件。
+- asciinema: 终端会话记录工具。[https://asciinema.org/](https://link.zhihu.com/?target=https%3A//asciinema.org/)
+
+
+
+devdocs.io: 文档查询工具
+
+gitx(mac):方便查看代码提交历史，便于了解整个代码仓库是怎样一步步构建的。[http://gitx.frim.nl/user_manual](https://link.zhihu.com/?target=http%3A//gitx.frim.nl/user_manual.html)
+
+tig: text-mode interface for git. 喜欢命令行的可以尝试下。 [https://github.com/jonas/tig](https://link.zhihu.com/?target=https%3A//github.com/jonas/tig)
+
+- EditorConfig: [http://editorconfig.org/](https://link.zhihu.com/?target=http%3A//editorconfig.org/) 用来统一编辑器配置。如果成员用不同的操作系统和编辑器，建议使用。尤其是对于 python 这种使用缩进的语言
+- mac-setup: [https://github.com/sb2nov/mac-setup](https://link.zhihu.com/?target=https%3A//github.com/sb2nov/mac-setup) mac 下各种编程语言开发环境配置指引
+
+[《使用vim+tmux+zsh+autojump高效工作》](https://link.zhihu.com/?target=http%3A//ningning.today/2016/11/09/tools/vim-tmux-zsh-autojump/)
+
+- prospector: 集成了众多python代码检测工具
+- mccabe: 圈复杂度检测工具。McCabe 是一种度量程序复杂度的方法，如果单个子程序复杂度过高，或许就需要拆分逻辑提高程序的易读性。
+- bandit: 用于Python代码的安全性分析，openstack 的项目 [https://github.com/openstack/bandit](https://link.zhihu.com/?target=https%3A//github.com/openstack/bandit)
+- rope，可以用来重构等，功能强大。笔者经常用rope自动帮我重新整理导入的包顺序。
+- Pyreverse: 代码 UML 生成工具, 帮助我们理解继承关系 ([https://pythonhosted.org/theape/documentation/developer/explorations/explore_graphs/explore_pyreverse.html](https://link.zhihu.com/?target=https%3A//pythonhosted.org/theape/documentation/developer/explorations/explore_graphs/explore_pyreverse.html))
+- Epydoc: Automatic API Documentation Generation for Python
+- 2to3/python-modernize: python2 转 python3 工具。目前 Instagram 已经全面迁移到 python3
+- 编写2/3兼容代码：[http://python-future.org/compa](https://link.zhihu.com/?target=http%3A//python-future.org/compatible_idioms.html)
+- pigar: 找出项目使用到的依赖库
+- buildout: 项目构建工具
+- pyenv/virtualenv/pipenv：多版本管理
+- bitbucket: 类似 github，好处是支持免费的私有仓库
+- cookiecutter: 一系列项目模板生成工具，懒人必备。[https://github.com/audreyr/cookiecutter](https://link.zhihu.com/?target=https%3A//github.com/audreyr/cookiecutter)。笔者之前内部项目就直接用 flask-cookiecutter 直接生成的。
+- yeoman: [http://yeoman.io/generators/](https://link.zhihu.com/?target=http%3A//yeoman.io/generators/) 前端项目模板生成工具
+- ant-design: 后端管理后台项目解决方案 [https://ant.design/docs/react/p](https://link.zhihu.com/?target=https%3A//ant.design/docs/react/practical-projects-cn)
+- Api 工具
+  - checklist: [http://python.apichecklist.com/](https://link.zhihu.com/?target=http%3A//python.apichecklist.com/)
+
+日志、异常收集工具
+
+- Sentry: 用来记录异常非常好用，能看到完善的栈信息，方便排错。
+- Fluentd
+
+
+
+管理及运维、监控工具(devops很火)
+
+- Supervisor.进程管理
+- Fabric.应用部署
+- docker.最近比较火的容器技术。很多采用微服务架构的公司使用 docker 作为容器部署服务，或者构建一致的开发环境
+- SaltStack和Ansible. 配置管理
+- StatsDGraphite等web监控
+
+
+
+调试工具
+
+- ipdb/pdb: ipdb 支持自动补全，比原生的 pdb 要好用一些。
+- pdbpp: [https://pypi.org/project/pdbpp/](https://link.zhihu.com/?target=https%3A//pypi.org/project/pdbpp/)
+- [https://curl.trillworks.com/](https://link.zhihu.com/?target=https%3A//curl.trillworks.com/) 把 curl 命令参数转成 requests 代码。 [https://github.com/NickCarneiro/curlconverter/](https://link.zhihu.com/?target=https%3A//github.com/NickCarneiro/curlconverter/)。
+- httpie
+- postman
+- [http://httpbin.org](https://link.zhihu.com/?target=http%3A//httpbin.org)
+- curl/requests 互相转化: [https://github.com/oeegor/curlify](https://link.zhihu.com/?target=https%3A//github.com/oeegor/curlify) [https://github.com/spulec/uncurl](https://link.zhihu.com/?target=https%3A//github.com/spulec/uncurl)
+
+
+
+抓包和下载工具
+
+- mitmproxy: 用 python 实现的终端命令行抓包工具，可以将请求直接导出成 python 代码，笔者经常用来抓包和调试。
+- charles
+
+
+
+爬虫相关
+
+- Scrapy: 知名的爬虫框架。生态比较丰富
+- pyspider: 国人写的一个不错的爬虫框架
+- requests
+- lxml/BeautifulSoup/pyquery: 解析 html，xml 等。
+- tornado: 异步的 http client 可以写爬虫
+- redis/celery: 实现队列、异步爬虫。异步方案也比较多
+- phantomjs/puppeteer: 用来处理动态网站。puppeteer 基于 nodejs
+
+
+
+异步任务框架
+
+- celery: python 社区一个流行的异步任务框架
+
+压测工具
+
+- locust: python实现的压测工具。[http://locust.io/](https://link.zhihu.com/?target=http%3A//locust.io/)， 有 web 界面
+- ab
+- wrk
+
+Profiler
+
+- pyflame: [https://github.com/uber/pyflame](https://link.zhihu.com/?target=https%3A//github.com/uber/pyflame)
+
+数据库工具
+
+- mycli: mysql 命令行补全等。[https://github.com/dbcli/mycli](https://link.zhihu.com/?target=https%3A//github.com/dbcli/mycli)
+- MysqlWorkbench/Sequel Pro: mysql 客户端工具。
+- Navicat Premium: 强大的数据库管理工具，收费
+- **Medis**: redis client 工具
+- **MongoChef**: Mongodb 客户端工具
+
+
+
+
+
+<img src="https://i.loli.net/2020/02/10/UNFt5Hpwy6L1rWu.jpg" alt="UNFt5Hpwy6L1rWu" style="zoom:33%;" />
+<img src="https://i.loli.net/2020/02/10/xECDNp5wjnl8vWQ.jpg" alt="xECDNp5wjnl8vWQ" style="zoom: 33%;" />
+
 # 2020 年 1 月 15 日(星期三)
 
 [Python技巧小贴士 - 51CTO.COM](https://zhuanlan.51cto.com/art/201910/604777.htm)

@@ -14,6 +14,12 @@ tags:
 
 ### 油猴
 
+导出的是个压缩包
+
+导入：
+
+将所有文件打包，导入即可
+
 ### magic actions for youtube
 
 ### stylish
@@ -24,9 +30,11 @@ tags:
 
 [chrome-extension://ijllcpnolfcooahcekpamkbidhejabll/options/options.html#plugins](chrome-extension://ijllcpnolfcooahcekpamkbidhejabll/options/options.html#plugins)
 
-### search all (可能无法导出)
+### search all
 
 ## MPV 配置
+
+
 
 ## iina 配置 快捷键
 
