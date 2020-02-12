@@ -12,6 +12,15 @@ tags:
 
 <!--more-->
 
+[vardbg](https://pythonweekly.us2.list-manage.com/track/click?u=e2e180baf855ac797ef407fc7&id=39edfd28ec&e=65b1feb216)
+A simple Python debugger and profiler that generates animated visualizations of program flow, useful for algorithm learning.
+
+查看代码执行过程
+
+类似于 http://pythontutor.com/visualize.html#mode=edit
+
+
+
 [georgek42/inlinec: Effortlessly write inline C functions in Python](https://github.com/georgek42/inlinec)
 [maxhumber/gif: ✨ Better animated Matplotlib gifs](https://github.com/maxhumber/gif)
 

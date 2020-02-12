@@ -16,11 +16,31 @@ tags:
 
 ### 网页版
 
-[The Old Reader](https://theoldreader.com/)
+~~[The Old Reader](https://theoldreader.com/)~~
 
 ### Mac 
 
 Reeder
+
+### Android(未测试)
+
+- News+：可高度自定义的全能阅读器
+
+- FeedMe：功能丰富还免费
+
+- Readably：简洁又好用的轻量级阅读器
+
+- SwipeNews：高颜值 RSS 工具
+
+- Read：手动订阅者的最佳选择
+
+- Palabre：支持插件扩展的阅读器
+
+- Newsfold：体验沉浸式阅读
+
+### Windows
+
+- RSS 追踪
 
 ### Chrome 插件 查看当前网站可用 RSS
 
