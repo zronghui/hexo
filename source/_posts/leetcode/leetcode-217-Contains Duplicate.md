@@ -1,7 +1,8 @@
 ---
 title: leetcode 217. Contains Duplicate
 date: 2019-11-21 12:21:31
-categories: [leetcode]
+categories:
+- leetcode
 tags:
 - Array
 - Hash Table

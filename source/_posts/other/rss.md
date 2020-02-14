@@ -3,6 +3,7 @@ title: rss
 description: rss
 date: 2020-02-10 17:40:18
 categories:
+- other
 tags:
 ---
 

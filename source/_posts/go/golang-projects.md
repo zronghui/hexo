@@ -3,6 +3,7 @@ title: golang projects
 description: golang projects
 date: 2020-02-10 15:27:17
 categories:
+- go
 tags:
 ---
 

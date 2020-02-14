@@ -1,7 +1,8 @@
 ---
 title: leetcode 103. Binary Tree Zigzag Level Order Traversal
 date: 2019-11-23 11:13:46
-categories: [leetcode]
+categories:
+- leetcode
 tags:
 - Stack
 - Tree

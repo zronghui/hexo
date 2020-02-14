@@ -1,7 +1,8 @@
 ---
 title: leetcode 208. Implement Trie (Prefix Tree)
 date: 2019-12-02 11:33:21
-categories: [leetcode]
+categories:
+- leetcode
 tags:
 - Design
 - Trie

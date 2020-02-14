@@ -1,7 +1,8 @@
 ---
 title: leetcode 29. Divide Two Integers
 date: 2019-11-25 08:21:05
-categories: [leetcode]
+categories:
+- leetcode
 tags:
 - Math
 - Binary Search

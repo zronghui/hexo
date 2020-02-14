@@ -1,7 +1,8 @@
 ---
 title: leetcode 108. Convert Sorted Array to Binary Search Tree
 date: 2019-11-23 14:58:30
-categories: [leetcode]
+categories:
+- leetcode
 tags:
 - Tree
 - Depth-first Search

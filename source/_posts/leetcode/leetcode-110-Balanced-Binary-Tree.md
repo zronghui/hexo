@@ -1,7 +1,8 @@
 ---
 title: leetcode 110. Balanced Binary Tree
 date: 2019-11-23 15:12:48
-categories: [leetcode]
+categories:
+- leetcode
 tags:
 - Tree
 - Depth-first Search

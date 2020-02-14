@@ -1,7 +1,8 @@
 ---
 title: leetcode 344. Reverse String
 date: 2019-11-25 09:36:57
-categories: [leetcode]
+categories:
+- leetcode
 tags:
 - Two Pointers
 - String

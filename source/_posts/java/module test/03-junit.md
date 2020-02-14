@@ -2,6 +2,8 @@
 title: 03 junit
 date: 2020-02-08 10:48:14
 categories:
+- java
+- module test
 tags:
 description: 03 junit
 ---

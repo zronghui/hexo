@@ -1,8 +1,9 @@
 ---
 title: go学习笔记1
 date: 2019-11-25 13:55:54
-categories: [go]
-tags: [go]
+categories:
+- go
+tags:
 ---
 # 从Java到Golang快速入门
 flysnow.org/2016/12/28/from-java-to-golang.html

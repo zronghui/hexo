@@ -1,7 +1,8 @@
 ---
 title: leetcode 36. Valid Sudoku
 date: 2019-11-25 08:49:49
-categories: [leetcode]
+categories:
+- leetcode
 tags:
 - Hash Table
 ---

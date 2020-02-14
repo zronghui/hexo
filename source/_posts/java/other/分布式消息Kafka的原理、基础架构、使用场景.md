@@ -2,6 +2,8 @@
 title: 分布式消息Kafka的原理、基础架构、使用场景
 date: 2020-01-31 10:46:43
 categories:
+- java
+- other
 tags:
 ---
 

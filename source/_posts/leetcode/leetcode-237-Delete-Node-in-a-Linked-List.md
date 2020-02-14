@@ -1,7 +1,8 @@
 ---
 title: leetcode 237. Delete Node in a Linked List
 date: 2019-11-26 09:09:06
-categories: [leetcode]
+categories:
+- leetcode
 tags:
 - Linked List
 ---

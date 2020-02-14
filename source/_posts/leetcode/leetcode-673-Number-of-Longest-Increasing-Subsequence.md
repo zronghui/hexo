@@ -1,7 +1,8 @@
 ---
 title: leetcode 673. Number of Longest Increasing Subsequence
 date: 2019-11-30 23:18:46
-categories: [leetcode]
+categories:
+- leetcode
 tags:
 - Dynamic Programming
 ---

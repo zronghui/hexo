@@ -1,7 +1,8 @@
 ---
 title: leetcode 128. Longest Consecutive Sequence
 date: 2019-11-30 20:48:11
-categories: [leetcode]
+categories:
+- leetcode
 tags:
 - Array
 - Union Find

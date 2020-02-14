@@ -2,7 +2,7 @@
 title: you_get 自定义
 date: 2019-12-30 21:31:41
 categories:
-- python
+- other
 tags:
 - python
 - you-get

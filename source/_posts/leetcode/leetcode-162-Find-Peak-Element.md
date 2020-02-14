@@ -1,7 +1,8 @@
 ---
 title: leetcode 162. Find Peak Element
 date: 2019-12-02 10:01:52
-categories: [leetcode]
+categories:
+- leetcode
 tags:
 - Array
 - Binary Search

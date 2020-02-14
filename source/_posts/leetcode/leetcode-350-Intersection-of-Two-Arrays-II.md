@@ -1,7 +1,8 @@
 ---
 title: leetcode 118. Pascal's Triangle
 date: 2019-11-29 13:03:20
-categories: [leetcode]
+categories:
+- leetcode
 tags:
 - Hash Table
 - Two Pointers

@@ -1,7 +1,8 @@
 ---
 title: leetcode 538. Convert BST to Greater Tree
 date: 2019-12-07 19:47:55
-categories: [leetcode]
+categories:
+- leetcode
 tags:
 - Tree
 ---

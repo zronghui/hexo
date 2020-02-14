@@ -1,7 +1,8 @@
 ---
 title: leetcode 242. Valid Anagram
 date: 2019-11-26 13:05:22
-categories: [leetcode]
+categories:
+- leetcode
 tags:
 - Hash Table
 - Sort

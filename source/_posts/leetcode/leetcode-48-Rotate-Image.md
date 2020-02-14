@@ -1,7 +1,8 @@
 ---
 title: leetcode 48. Rotate Image
 date: 2019-11-27 09:28:44
-categories: [leetcode]
+categories:
+- leetcode
 tags:
 - Array
 ---

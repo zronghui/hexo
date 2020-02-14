@@ -1,7 +1,8 @@
 ---
 title: leetcode 380. Insert Delete GetRandom O(1)
 date: 2019-11-30 18:57:30
-categories: [leetcode]
+categories:
+- leetcode
 tags:
 - Array
 - Hash Table

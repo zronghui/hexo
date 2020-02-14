@@ -1,7 +1,8 @@
 ---
 title: leetcode 79. Word Search
 date: 2019-12-04 11:02:07
-categories: [leetcode]
+categories:
+- leetcode
 tags:
 - Array
 - Backtracking

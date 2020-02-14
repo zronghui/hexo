@@ -1,7 +1,8 @@
 ---
 title: leetcode 107. Binary Tree Level Order Traversal II
 date: 2019-11-23 14:10:42
-categories: [leetcode]
+categories:
+- leetcode
 tags:
 - Tree
 - Breadth-first Search

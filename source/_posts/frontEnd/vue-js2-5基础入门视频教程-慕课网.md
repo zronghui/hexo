@@ -2,7 +2,7 @@
 title: vue.js2.5基础入门视频教程-慕课网
 date: 2019-12-07 23:20:56
 categories:
-- vue.js
+- frontEnd
 tags:
 - vue.js
 ---

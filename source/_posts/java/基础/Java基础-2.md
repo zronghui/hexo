@@ -2,7 +2,8 @@
 title: Java基础-2
 date: 2020-01-13 17:53:13
 categories:
-- Java
+- java
+- 基础
 tags:
 - Java
 - 多线程

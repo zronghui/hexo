@@ -1,8 +1,9 @@
 ---
 title: jquery复习
 date: 2019-11-27 10:20:40
-categories: [jquery]
-tags: [jquery]
+categories:
+- frontEnd
+tags:
 ---
 # 样式篇
 <!--more-->

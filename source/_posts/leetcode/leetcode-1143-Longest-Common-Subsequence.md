@@ -1,7 +1,8 @@
 ---
 title: leetcode 1143. Longest Common Subsequence
 date: 2019-12-01 00:21:48
-categories: [leetcode]
+categories:
+- leetcode
 tags:
 - Dynamic Programming
 ---

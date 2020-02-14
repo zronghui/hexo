@@ -1,6 +1,7 @@
 title: Java-集合-总结与面试题
 categories:
-  - Java
+- java
+- 基础
 tags:
   - Java
   - 面试

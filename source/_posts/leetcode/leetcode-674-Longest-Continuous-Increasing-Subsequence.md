@@ -1,7 +1,8 @@
 ---
 title: leetcode 674. Longest Continuous Increasing Subsequence
 date: 2019-11-30 21:32:14
-categories: [leetcode]
+categories:
+- leetcode
 tags:
 - Array
 ---

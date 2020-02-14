@@ -1,8 +1,9 @@
 ---
 title: markdown语法及编辑器
 date: 2019-08-30 09:28:40
-categories: []
-tags: ["markdown"]
+categories:
+- other
+tags:
 ---
 ## 编辑器
 

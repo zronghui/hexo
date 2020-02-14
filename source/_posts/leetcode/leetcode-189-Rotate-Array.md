@@ -1,7 +1,8 @@
 ---
 title: leetcode 189. Rotate Array
 date: 2019-12-03 22:46:03
-categories: [leetcode]
+categories:
+- leetcode
 tags:
 - Array
 ---

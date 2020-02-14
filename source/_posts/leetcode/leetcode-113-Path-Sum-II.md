@@ -1,7 +1,8 @@
 ---
 title: leetcode 113. Path Sum II
 date: 2019-11-24 10:13:58
-categories: [leetcode]
+categories:
+- leetcode
 tags:
 - Tree
 - Depth-first Search

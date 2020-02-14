@@ -1,7 +1,8 @@
 ---
 title: leetcode 73. Set Matrix Zeroes
 date: 2019-12-02 10:34:20
-categories: [leetcode]
+categories:
+- leetcode
 tags:
 - Array
 ---

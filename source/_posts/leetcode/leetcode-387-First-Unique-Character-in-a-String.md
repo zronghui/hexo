@@ -1,7 +1,8 @@
 ---
 title: leetcode 387. First Unique Character in a String
 date: 2019-11-28 16:38:34
-categories: [leetcode]
+categories:
+- leetcode
 tags:
 - Hash Table
 - String

@@ -1,7 +1,8 @@
 ---
 title: leetcode 49. Group Anagrams
 date: 2019-11-27 09:41:52
-categories: [leetcode]
+categories:
+- leetcode
 tags:
 - Hash Table
 - String

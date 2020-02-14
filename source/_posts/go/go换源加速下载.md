@@ -1,8 +1,9 @@
 ---
 title: go换源加速下载
 date: 2019-11-25 15:23:35
-categories: [go]
-tags: [go]
+categories:
+- go
+tags:
 ---
 
 阿里云Go Module代理服务

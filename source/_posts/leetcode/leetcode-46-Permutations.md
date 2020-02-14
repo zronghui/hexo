@@ -1,7 +1,8 @@
 ---
 title: leetcode 46. Permutations
 date: 2019-11-25 09:59:58
-categories: [leetcode]
+categories:
+- leetcode
 tags:
 - Backtracking
 ---

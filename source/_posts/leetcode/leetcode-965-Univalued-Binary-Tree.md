@@ -1,7 +1,8 @@
 ---
 title: leetcode 965. Univalued Binary Tree
 date: 2019-12-06 22:47:42
-categories: [leetcode]
+categories:
+- leetcode
 tags:
 - Tree
 ---

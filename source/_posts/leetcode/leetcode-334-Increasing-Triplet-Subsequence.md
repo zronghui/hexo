@@ -1,7 +1,8 @@
 ---
 title: leetcode 334. Increasing Triplet Subsequence
 date: 2019-12-03 23:45:57
-categories: [leetcode]
+categories:
+- leetcode
 tags:
 - 
 ---

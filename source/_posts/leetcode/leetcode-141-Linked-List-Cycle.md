@@ -1,7 +1,8 @@
 ---
 title: leetcode 141. Linked List Cycle
 date: 2019-11-28 11:54:56
-categories: [leetcode]
+categories:
+- leetcode
 tags:
 - Linked List
 - Two Pointers

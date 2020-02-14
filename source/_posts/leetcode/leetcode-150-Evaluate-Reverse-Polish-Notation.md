@@ -1,7 +1,8 @@
 ---
 title: leetcode 150. Evaluate Reverse Polish Notation
 date: 2019-12-06 19:35:17
-categories: [leetcode]
+categories:
+- leetcode
 tags:
 - Stack
 ---

@@ -1,7 +1,8 @@
 ---
 title: leetcode 278. First Bad Version
 date: 2019-12-04 15:37:24
-categories: [leetcode]
+categories:
+- leetcode
 tags:
 - Binary Search
 ---

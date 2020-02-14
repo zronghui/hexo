@@ -1,7 +1,8 @@
 ---
 title: leetcode 559. Maximum Depth of N-ary Tree
 date: 2019-12-06 22:42:12
-categories: [leetcode]
+categories:
+- leetcode
 tags:
 - Tree
 - Depth-first Search

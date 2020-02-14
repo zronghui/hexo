@@ -1,7 +1,8 @@
 ---
 title: leetcode 78. Subsets
 date: 2019-11-26 09:26:14
-categories: [leetcode]
+categories:
+- leetcode
 tags:
 - Array
 - Backtracking

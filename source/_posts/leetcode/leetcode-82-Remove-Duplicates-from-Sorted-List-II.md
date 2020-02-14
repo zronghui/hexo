@@ -1,7 +1,8 @@
 ---
 title: leetcode 82. Remove Duplicates from Sorted List II
 date: 2019-11-24 15:48:21
-categories: [leetcode]
+categories:
+- leetcode
 tags:
 - Linked List
 ---

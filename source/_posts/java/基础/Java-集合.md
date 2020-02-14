@@ -2,7 +2,8 @@
 title: Java 集合
 date: 2020-01-16 15:57:38
 categories:
-- Java
+- java
+- 基础
 tags:
 - Java
 ---

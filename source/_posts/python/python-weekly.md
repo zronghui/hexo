@@ -3,7 +3,6 @@ title: python weekly
 date: 2020-01-01 10:33:10
 categories:
 - python
-- weekly
 tags:
 - python
 - weekly

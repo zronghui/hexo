@@ -1,7 +1,8 @@
 ---
 title: leetcode 24. Swap Nodes in Pairs
 date: 2019-11-24 15:15:31
-categories: [leetcode]
+categories:
+- leetcode
 tags:
 - Linked List
 ---

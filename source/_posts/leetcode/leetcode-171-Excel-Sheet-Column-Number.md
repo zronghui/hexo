@@ -1,7 +1,8 @@
 ---
 title: leetcode 171. Excel Sheet Column Number
 date: 2019-11-27 09:12:17
-categories: [leetcode]
+categories:
+- leetcode
 tags:
 - Math
 ---

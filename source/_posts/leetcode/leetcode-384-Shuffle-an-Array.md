@@ -1,7 +1,8 @@
 ---
 title: leetcode 384. Shuffle an Array
 date: 2019-11-28 16:19:40
-categories: [leetcode]
+categories:
+- leetcode
 tags:
 - 
 ---

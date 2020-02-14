@@ -1,7 +1,8 @@
 ---
 title: leetcode 112. Path Sum
 date: 2019-11-23 15:47:36
-categories: [leetcode]
+categories:
+- leetcode
 tags:
 - Tree
 - Depth-first Search

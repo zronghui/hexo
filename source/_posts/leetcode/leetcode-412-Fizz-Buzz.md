@@ -1,7 +1,8 @@
 ---
 title: leetcode 412. Fizz Buzz
 date: 2019-11-22 12:13:01
-categories: [leetcode]
+categories:
+- leetcode
 tags:
 - 
 ---

@@ -1,7 +1,8 @@
 ---
 title: leetcode 653. Two Sum IV - Input is a BST
 date: 2019-12-07 19:35:40
-categories: [leetcode]
+categories:
+- leetcode
 tags:
 - Tree
 ---

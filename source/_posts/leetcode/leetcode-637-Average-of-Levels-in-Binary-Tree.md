@@ -1,7 +1,8 @@
 ---
 title: leetcode 637. Average of Levels in Binary Tree
 date: 2019-12-07 19:27:05
-categories: [leetcode]
+categories:
+- leetcode
 tags:
 - Tree
 ---

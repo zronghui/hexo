@@ -1,7 +1,8 @@
 ---
 title: leetcode 300. Longest Increasing Subsequence
 date: 2019-11-30 21:24:42
-categories: [leetcode]
+categories:
+- leetcode
 tags:
 - Binary Search
 - Dynamic Programming

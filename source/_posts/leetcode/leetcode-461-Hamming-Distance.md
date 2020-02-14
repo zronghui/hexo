@@ -1,7 +1,8 @@
 ---
 title: leetcode 461. Hamming Distance
 date: 2019-12-04 16:51:06
-categories: [leetcode]
+categories:
+- leetcode
 tags:
 - Bit Manipulation
 ---

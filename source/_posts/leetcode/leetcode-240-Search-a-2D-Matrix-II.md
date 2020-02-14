@@ -1,7 +1,8 @@
 ---
 title: leetcode 240. Search a 2D Matrix II
 date: 2019-12-02 10:16:42
-categories: [leetcode]
+categories:
+- leetcode
 tags:
 - Binary Search
 - Divide and Conquer

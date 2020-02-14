@@ -1,7 +1,8 @@
 ---
 title: leetcode 762. Prime Number of Set Bits in Binary Representation
 date: 2019-12-15 06:32:34
-categories: [leetcode]
+categories:
+- leetcode
 tags:
 - Bit Manipulation
 ---

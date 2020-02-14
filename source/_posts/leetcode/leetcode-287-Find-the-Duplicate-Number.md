@@ -1,7 +1,8 @@
 ---
 title: leetcode 287. Find the Duplicate Number
 date: 2019-11-27 21:27:08
-categories: [leetcode]
+categories:
+- leetcode
 tags:
 - Array
 - Two Pointers

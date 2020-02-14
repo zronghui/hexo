@@ -1,7 +1,8 @@
 ---
 title: leetcode 229. Majority Element II
 date: 2019-12-06 20:13:25
-categories: [leetcode]
+categories:
+- leetcode
 tags:
 - Array
 ---

@@ -1,8 +1,9 @@
 ---
 title: hexo
 date: 2019-08-29 19:05:31
-categories: []
-tags: [hexo]
+categories:
+- other
+tags:
 ---
 <!--toc-->
 <!--more-->

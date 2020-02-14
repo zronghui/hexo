@@ -2,8 +2,8 @@
 title: Java 并发
 date: 2020-01-26 10:01:33
 categories:
-  - Java
-  - 并发
+- java
+- 基础
 tags:
   - Java
   - 并发

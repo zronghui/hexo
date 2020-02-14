@@ -3,7 +3,6 @@ title: Java tricks
 date: 2020-01-15 18:14:20
 categories:
 - tricks
-- Java
 tags:
 - tricks
 - Java

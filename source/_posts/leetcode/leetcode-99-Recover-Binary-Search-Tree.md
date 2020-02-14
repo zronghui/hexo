@@ -1,7 +1,8 @@
 ---
 title: leetcode 99. Recover Binary Search Tree
 date: 2019-11-22 16:45:46
-categories: [leetcode]
+categories:
+- leetcode
 tags:
 - Tree
 - Depth-first Search

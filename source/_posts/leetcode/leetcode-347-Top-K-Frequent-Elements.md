@@ -1,7 +1,8 @@
 ---
 title: leetcode 347. Top K Frequent Elements
 date: 2019-11-25 10:35:00
-categories: [leetcode]
+categories:
+- leetcode
 tags:
 - Hash Table
 - Heap

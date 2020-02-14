@@ -1,7 +1,8 @@
 ---
 title: leetcode 61. Rotate List
 date: 2019-11-24 15:35:14
-categories: [leetcode]
+categories:
+- leetcode
 tags:
 - Linked List
 - Two Pointers

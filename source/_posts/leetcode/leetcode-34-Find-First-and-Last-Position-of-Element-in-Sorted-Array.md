@@ -1,7 +1,8 @@
 ---
 title: leetcode 34. Find First and Last Position of Element in Sorted Array
 date: 2019-11-24 14:13:35
-categories: [leetcode]
+categories:
+- leetcode
 tags:
 - Array
 - Binary Search

@@ -1,7 +1,8 @@
 ---
 title: leetcode 131. Palindrome Partitioning
 date: 2019-12-01 11:31:57
-categories: [leetcode]
+categories:
+- leetcode
 tags:
 - Backtracking
 ---

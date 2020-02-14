@@ -1,7 +1,8 @@
 ---
 title: leetcode 236. Lowest Common Ancestor of a Binary Tree
 date: 2019-12-03 23:14:34
-categories: [leetcode]
+categories:
+- leetcode
 tags:
 - Tree
 ---

@@ -2,7 +2,8 @@
 title: Java基础
 date: 2020-01-12 17:13:47
 categories:
-- Java
+- java
+- 基础
 tags:
 - Java
 ---

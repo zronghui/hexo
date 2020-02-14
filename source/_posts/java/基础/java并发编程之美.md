@@ -1,8 +1,8 @@
 ---
 title: java并发编程之美
 categories:
-  - Java
-  - 并发
+- java
+- 基础
 tags:
   - Java
   - 并发

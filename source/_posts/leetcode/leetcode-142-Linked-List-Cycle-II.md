@@ -1,7 +1,8 @@
 ---
 title: leetcode 142. Linked List Cycle II
 date: 2019-11-28 12:40:44
-categories: [leetcode]
+categories:
+- leetcode
 tags:
 - Linked List
 - Two Pointers

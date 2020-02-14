@@ -1,7 +1,8 @@
 ---
 title: leetcode 111. Minimum Depth of Binary Tree
 date: 2019-11-23 15:33:12
-categories: [leetcode]
+categories:
+- leetcode
 tags:
 - Tree
 - Depth-first Search

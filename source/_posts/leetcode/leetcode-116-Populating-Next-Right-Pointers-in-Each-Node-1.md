@@ -1,7 +1,8 @@
 ---
 title: leetcode 116. Populating Next Right Pointers in Each Node
 date: 2019-11-24 11:03:16
-categories: [leetcode]
+categories:
+- leetcode
 tags:
 - Tree
 - Depth-first Search

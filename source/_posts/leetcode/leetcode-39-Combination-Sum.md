@@ -1,7 +1,8 @@
 ---
 title: leetcode 39. Combination Sum
 date: 2019-11-24 14:57:02
-categories: [leetcode]
+categories:
+- leetcode
 tags:
 - Array
 - Backtracking

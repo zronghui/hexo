@@ -1,8 +1,9 @@
 ---
 title: go学习笔记2
 date: 2019-11-25 17:53:25
-categories: [go]
-tags: [go]
+categories:
+- go
+tags:
 ---
 # 笨鸟学Go——最简单的Go教程 
 https://www.slowbirdgogogo.com/syntax

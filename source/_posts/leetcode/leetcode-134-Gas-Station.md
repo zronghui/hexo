@@ -1,7 +1,8 @@
 ---
 title: leetcode 134. Gas Station
 date: 2019-12-04 11:51:30
-categories: [leetcode]
+categories:
+- leetcode
 tags:
 - Greedy
 ---

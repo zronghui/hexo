@@ -2,6 +2,7 @@
 title: vue
 date: 2019-12-31 19:08:03
 categories:
+- frontEnd
 tags:
 ---
 ## 引入json文件

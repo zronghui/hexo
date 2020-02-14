@@ -1,7 +1,8 @@
 ---
 title: leetcode 590. N-ary Tree Postorder Traversal
 date: 2019-12-06 22:31:18
-categories: [leetcode]
+categories:
+- leetcode
 tags:
 - Tree
 ---

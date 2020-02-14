@@ -1,7 +1,8 @@
 ---
 title: leetcode 289. Game of Life
 date: 2019-11-29 19:30:51
-categories: [leetcode]
+categories:
+- leetcode
 tags:
 - Array
 ---

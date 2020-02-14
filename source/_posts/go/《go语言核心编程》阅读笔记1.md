@@ -1,8 +1,9 @@
 ---
 title: 《go语言核心编程》阅读笔记1
 date: 2019-11-26 22:37:17
-categories: [go]
-tags: [go]
+categories:
+- go
+tags:
 ---
 # 第一章 基础知识
 1. 函数以func开头，{必须在函数头所在行尾部

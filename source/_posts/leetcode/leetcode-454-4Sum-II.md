@@ -1,7 +1,8 @@
 ---
 title: leetcode 454. 4Sum II
 date: 2019-11-28 15:42:06
-categories: [leetcode]
+categories:
+- leetcode
 tags:
 - Hash Table
 - Binary Search

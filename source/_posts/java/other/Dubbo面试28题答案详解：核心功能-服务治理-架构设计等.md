@@ -2,8 +2,8 @@
 title: Dubbo面试28题答案详解：核心功能+服务治理+架构设计等
 date: 2020-01-30 09:30:52
 categories:
-- Java
-- Dubbo
+- java
+- other
 tags:
 - Java
 - Dubbo

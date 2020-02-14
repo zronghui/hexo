@@ -1,7 +1,8 @@
 ---
 title: leetcode 700. Search in a Binary Search Tree
 date: 2019-12-06 20:52:18
-categories: [leetcode]
+categories:
+- leetcode
 tags:
 - Tree
 ---

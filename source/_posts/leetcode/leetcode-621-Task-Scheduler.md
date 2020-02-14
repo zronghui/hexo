@@ -1,7 +1,8 @@
 ---
 title: leetcode 621. Task Scheduler
 date: 2019-12-06 19:15:01
-categories: [leetcode]
+categories:
+- leetcode
 tags:
 - Array
 - Greedy

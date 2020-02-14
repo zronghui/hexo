@@ -2,8 +2,8 @@
 title: Java 虚拟机
 date: 2020-01-28 10:01:33
 categories:
-  - Java
-  - 虚拟机
+- java
+- 基础
 tags:
   - Java
   - 虚拟机

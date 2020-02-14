@@ -1,7 +1,8 @@
 ---
 title: leetcode 328. Odd Even Linked List
 date: 2019-11-28 18:01:19
-categories: [leetcode]
+categories:
+- leetcode
 tags:
 - Linked List
 ---

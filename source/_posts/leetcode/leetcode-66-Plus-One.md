@@ -1,7 +1,8 @@
 ---
 title: leetcode 66. Plus One
 date: 2019-12-01 10:10:10
-categories: [leetcode]
+categories:
+- leetcode
 tags:
 - Array
 ---

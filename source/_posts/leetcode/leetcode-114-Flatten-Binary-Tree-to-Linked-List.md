@@ -1,7 +1,8 @@
 ---
 title: leetcode 114. Flatten Binary Tree to Linked List
 date: 2019-11-24 10:34:15
-categories: [leetcode]
+categories:
+- leetcode
 tags:
 - Tree
 - Depth-first Search

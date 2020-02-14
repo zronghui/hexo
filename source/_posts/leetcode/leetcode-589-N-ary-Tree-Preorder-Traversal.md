@@ -1,7 +1,8 @@
 ---
 title: leetcode 589. N-ary Tree Preorder Traversal
 date: 2019-12-06 21:15:10
-categories: [leetcode]
+categories:
+- leetcode
 tags:
 - Tree
 ---

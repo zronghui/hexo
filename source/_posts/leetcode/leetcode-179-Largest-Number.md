@@ -1,7 +1,8 @@
 ---
 title: leetcode 179. Largest Number
 date: 2019-11-24 13:29:13
-categories: [leetcode]
+categories:
+- leetcode
 tags:
 - Sort
 ---

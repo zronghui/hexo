@@ -1,7 +1,8 @@
 ---
 title: leetcode 239. Sliding Window Maximum
 date: 2019-12-04 13:52:48
-categories: [leetcode]
+categories:
+- leetcode
 tags:
 - Heap
 - Sliding Window

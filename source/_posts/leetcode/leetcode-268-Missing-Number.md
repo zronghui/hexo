@@ -1,7 +1,8 @@
 ---
 title: leetcode 268. Missing Number
 date: 2019-11-29 11:19:06
-categories: [leetcode]
+categories:
+- leetcode
 tags:
 - Array
 - Math

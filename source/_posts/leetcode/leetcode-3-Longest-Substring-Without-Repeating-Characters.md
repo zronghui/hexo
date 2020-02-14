@@ -1,7 +1,8 @@
 ---
 title: leetcode 3. Longest Substring Without Repeating Characters
 date: 2019-12-04 17:39:21
-categories: [leetcode]
+categories:
+- leetcode
 tags:
 - Hash Table
 - Two Pointers

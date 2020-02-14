@@ -1,7 +1,8 @@
 ---
 title: leetcode 350. Intersection of Two Arrays II
 date: 2019-11-29 13:05:23
-categories: [leetcode]
+categories:
+- leetcode
 tags:
 - Hash Table
 - Two Pointers

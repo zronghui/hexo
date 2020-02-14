@@ -1,7 +1,8 @@
 ---
 title: leetcode 50. Pow(x, n)
 date: 2019-12-06 14:41:33
-categories: [leetcode]
+categories:
+- leetcode
 tags:
 - Math
 - Binary Search

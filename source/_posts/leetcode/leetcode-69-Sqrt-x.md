@@ -1,7 +1,8 @@
 ---
 title: leetcode 69. Sqrt(x)
 date: 2019-12-03 22:31:05
-categories: [leetcode]
+categories:
+- leetcode
 tags:
 - Math
 - Binary Search

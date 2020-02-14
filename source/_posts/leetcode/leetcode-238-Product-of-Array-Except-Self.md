@@ -1,7 +1,8 @@
 ---
 title: leetcode 238. Product of Array Except Self
 date: 2019-11-26 09:01:34
-categories: [leetcode]
+categories:
+- leetcode
 tags:
 - Array
 ---

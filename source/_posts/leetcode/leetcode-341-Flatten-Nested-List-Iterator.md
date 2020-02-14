@@ -1,7 +1,8 @@
 ---
 title: leetcode 341. Flatten Nested List Iterator
 date: 2019-11-28 19:17:24
-categories: [leetcode]
+categories:
+- leetcode
 tags:
 - Stack
 - Design

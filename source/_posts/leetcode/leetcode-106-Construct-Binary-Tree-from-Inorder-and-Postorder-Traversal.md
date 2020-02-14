@@ -1,7 +1,8 @@
 ---
 title: leetcode 106. Construct Binary Tree from Inorder and Postorder Traversal
 date: 2019-11-22 23:51:49
-categories: [leetcode]
+categories:
+- leetcode
 tags:
 - Array
 - Tree

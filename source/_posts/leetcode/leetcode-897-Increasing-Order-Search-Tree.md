@@ -1,7 +1,8 @@
 ---
 title: leetcode 897. Increasing Order Search Tree
 date: 2019-12-06 22:21:41
-categories: [leetcode]
+categories:
+- leetcode
 tags:
 - Tree
 - Depth-first Search

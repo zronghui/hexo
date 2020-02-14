@@ -1,7 +1,8 @@
 ---
 title: leetcode 279. Perfect Squares
 date: 2019-11-30 20:09:05
-categories: [leetcode]
+categories:
+- leetcode
 tags:
 - Math
 - Dynamic Programming

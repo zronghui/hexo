@@ -2,7 +2,7 @@
 title: js script
 date: 2020-01-10 17:24:41
 categories:
-- js
+- frontEnd
 tags:
 - js
 ---

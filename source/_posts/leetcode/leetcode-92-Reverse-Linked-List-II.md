@@ -1,7 +1,8 @@
 ---
 title: leetcode 92. Reverse Linked List II
 date: 2019-11-24 18:48:47
-categories: [leetcode]
+categories:
+- leetcode
 tags:
 - Linked List
 ---

@@ -1,7 +1,8 @@
 ---
 title: leetcode 297. Serialize and Deserialize Binary Tree
 date: 2019-12-02 10:51:06
-categories: [leetcode]
+categories:
+- leetcode
 tags:
 - Tree
 - Design

@@ -1,7 +1,8 @@
 ---
 title: leetcode 215. Kth Largest Element in an Array
 date: 2019-11-21 12:21:31
-categories: [leetcode]
+categories:
+- leetcode
 tags:
 - Divide and Conquer
 - Heap

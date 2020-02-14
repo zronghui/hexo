@@ -1,7 +1,8 @@
 ---
 title: leetcode 378. Kth Smallest Element in a Sorted Matrix
 date: 2019-11-27 21:00:31
-categories: [leetcode]
+categories:
+- leetcode
 tags:
 - Binary Search
 - Heap

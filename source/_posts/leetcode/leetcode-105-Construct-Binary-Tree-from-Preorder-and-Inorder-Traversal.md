@@ -1,7 +1,8 @@
 ---
 title: leetcode 105. Construct Binary Tree from Preorder and Inorder Traversal
 date: 2019-11-22 23:32:41
-categories: [leetcode]
+categories:
+- leetcode
 tags:
 - Array
 - Tree

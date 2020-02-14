@@ -1,7 +1,8 @@
 ---
 title: leetcode 872. Leaf-Similar Trees
 date: 2019-12-07 18:56:11
-categories: [leetcode]
+categories:
+- leetcode
 tags:
 - Tree
 - Depth-first Search

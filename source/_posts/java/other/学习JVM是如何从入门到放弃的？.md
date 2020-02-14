@@ -2,7 +2,8 @@
 title: 学习JVM是如何从入门到放弃的？
 date: 2020-01-13 20:04:56
 categories:
-- Java
+- java
+- other
 tags:
 - Java
 ---

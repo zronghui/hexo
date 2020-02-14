@@ -1,7 +1,8 @@
 ---
 title: leetcode 96. Unique Binary Search Trees
 date: 2019-11-22 11:52:23
-categories: [leetcode]
+categories:
+- leetcode
 tags:
 - Dynamic Programming
 - Tree

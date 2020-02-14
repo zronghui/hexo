@@ -2,6 +2,8 @@
 title: 02 log
 date: 2020-02-08 08:56:04
 categories:
+- java
+- module test
 tags:
 ---
 

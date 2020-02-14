@@ -1,8 +1,9 @@
 ---
 title: go入门及资源网址
 date: 2019-11-25 12:48:32
-categories: [go]
-tags: [go]
+categories:
+- go
+tags:
 ---
 # [Go 指南](https://openset.github.io/go-guide/)
 The Go programming language is an open source project to make programmers more productive.

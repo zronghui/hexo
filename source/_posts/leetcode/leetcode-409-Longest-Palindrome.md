@@ -1,7 +1,8 @@
 ---
 title: leetcode 409. Longest Palindrome
 date: 2019-12-01 11:47:10
-categories: [leetcode]
+categories:
+- leetcode
 tags:
 - Hash Table
 ---

@@ -3,7 +3,6 @@ title: Python tricks
 date: 2020-01-15 16:36:18
 categories:
 - tricks
-- Python
 tags:
 - tricks
 - Python

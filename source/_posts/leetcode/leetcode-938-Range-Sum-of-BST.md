@@ -1,7 +1,8 @@
 ---
 title: leetcode 938. Range Sum of BST
 date: 2019-11-22 17:07:36
-categories: [leetcode]
+categories:
+- leetcode
 tags:
 - Tree
 - Recursion

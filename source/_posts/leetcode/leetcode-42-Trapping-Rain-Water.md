@@ -1,7 +1,8 @@
 ---
 title: leetcode 42. Trapping Rain Water
 date: 2019-11-29 21:34:58
-categories: [leetcode]
+categories:
+- leetcode
 tags:
 - Array
 - Two Pointers

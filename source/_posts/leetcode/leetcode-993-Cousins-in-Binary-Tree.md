@@ -1,7 +1,8 @@
 ---
 title: leetcode 993. Cousins in Binary Tree
 date: 2019-12-07 20:05:40
-categories: [leetcode]
+categories:
+- leetcode
 tags:
 - Tree
 - Breadth-first Search

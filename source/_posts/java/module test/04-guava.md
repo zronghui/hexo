@@ -2,6 +2,8 @@
 title: 04 guava
 date: 2020-02-09 10:04:30
 categories:
+- java
+- module test
 tags:
 ---
 
