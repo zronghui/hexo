@@ -12,6 +12,156 @@ tags:
 [toc]
 
 <!--more-->
+
+# 02-13
+
+### Pathlib (3.4+)
+
+```python
+from pathlib import Path
+root = Path('post_sub_folder')
+print(root)
+path = root / 'happy_user'
+print(path.resolve())
+```
+
+### Type hinting (3.5+)
+
+```python
+def sentence_has_animal(sentence: str) -> bool:
+  return "animal" in sentence
+sentence_has_animal("Donald had a farm without animals")
+```
+
+### Enumerations (3.4+)
+
+Python3提供的Enum类让你很容就能实现一个枚举类型：
+
+```python
+from enum import Enum, auto
+
+class Monster(Enum):
+  ZOMBIE = auto()
+  WARRIOR = auto()
+  BEAR = auto()
+print(Monster.ZOMBIE)
+for monster in Monster:
+  print(monster)
+```
+
+### Built-in LRU cache (3.2+)
+
+缓存是现在的软件领域经常使用的技术，Python3提供了一个lru_cache装饰器，来让你更好的使用缓存。
+
+```python
+from functools import lru_cache
+
+@lru_cache(maxsize=512)
+def fib_memoization(number: int) -> int:
+  if number == 0: return 0
+  if number == 1: return 1
+  return fib_memoization(number-1) + fib_memoization(number-2)
+start = time.time()
+fib_memoization(40)
+print(f'Duration: {time.time() - start}s')
+```
+
+### Extended iterable unpacking (3.0+)
+
+***_用来抛弃元素**
+
+```python
+head, *body, tail = range(5)
+print(head, body, tail)
+# 输出： 0 [1, 2, 3] 4
+
+py, filename, *cmds = "python3.7 script.py -n 5 -l 15".split()
+print(py)
+print(filename)
+print(cmds)
+# 输出：python3.7
+# script.py
+# ['-n', '5', '-l', '15']
+
+first, _, third, *_ = range(10)
+print(first, third)
+# 输出： 0 2
+```
+
+### Data classes (3.7+)
+
+Python3提供data class装饰器来让我们更好的处理数据对象，而不用去实现 init() 和 repr() 方法。假设如下的代码:
+
+
+
+```python
+class Armor:
+  def __init__(self, armor: float, description: str, level: int = 1):
+      self.armor = armor
+      self.level = level
+      self.description = description
+
+  def power(self) -> float:
+      return self.armor * self.level
+
+armor = Armor(5.2, "Common armor.", 2)
+armor.power()
+# 10.4
+print(armor)
+# <__main__.Armor object at 0x7fc4800e2cf8>
+```
+
+
+使用data class实现上面功能的代码，这么写:
+
+```python
+from dataclasses import dataclass
+
+@dataclass
+class Armor:
+  armor: float
+  description: str
+  level: int = 1
+
+def power(self) -> float:
+    return self.armor * self.level
+    
+armor = Armor(5.2, "Common armor.", 2)
+armor.power()
+# 10.4
+print(armor)
+# Armor(armor=5.2, description='Common armor.', level=2)
+```
+
+### Implicit namespace packages (3.3+)
+
+通常情况下，Python通过把代码打成包（在目录中加入init.py实现）来复用
+
+在Python2里，每个目录都必须有init.py文件，以便其他模块调用目录下的python代码，在Python3里，通过 Implicit Namespace Packages可是不使用__init__.py文件
+
+
+
+    sound/                          Top-level package
+      __init__.py               Initialize the sound package
+      formats/                  Subpackage for file format conversions
+              wavread.py
+              wavwrite.py
+              aiffread.py
+              aiffwrite.py
+              auread.py
+              auwrite.py
+              ...
+      effects/                  Subpackage for sound effects
+              echo.py
+              surround.py
+              reverse.py
+              ...
+      filters/                  Subpackage for filters
+              equalizer.py
+              vocoder.py
+              karaoke.py
+
+
 # 02-10
 
 neovim: 新时代的 vim，我在这个配置([https://github.com/PegasusWang/vim-config](https://link.zhihu.com/?target=https%3A//github.com/PegasusWang/vim-config))上自定义了自己的配置，使用起来性能和反应速度上远超原生的老古董 vim
