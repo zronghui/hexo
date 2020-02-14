@@ -1,56 +1,16 @@
 ---
 title: Vue.js基础入门Vue实战黑马程序员VUE
 date: 2019-12-21 15:27:47
-tags:
-- vue
 categories:
 - frontEnd
 tags:
-- vue
-categories:
-- frontEnd
-tags:
-- vue
-categories:
-- frontEnd
-tags:
-- vue
-categories:
-- frontEnd
-tags:
-- vue
-categories:
-- frontEnd
-tags:
-- vue
-categories:
-- frontEnd
-tags:
-- vue
-categories:
-- frontEnd
-tags:
-- vue
-categories:
-- frontEnd
-tags:
-- vue
-categories:
-- frontEnd
-tags:
-- vue
-categories:
-- frontEnd
-tags:
-- vue
-categories:
 - vue
 ---
 ## 开发工具
 vscode + live server
 
 ##  在挂载点及其子节点中生效
- 
+
 ```js
 el: "#app" // id
 el: ".app" // class
@@ -76,7 +36,7 @@ v-en:dbclick
 @click
 @mouseenter
 @dbclick
- 
+
 ## v-bind
 设置元素的属性 src title class
 v-bind:src 简写为 :src
