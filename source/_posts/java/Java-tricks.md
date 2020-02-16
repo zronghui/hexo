@@ -2,7 +2,7 @@
 title: Java tricks
 date: 2020-01-15 18:14:20
 categories:
-- tricks
+- java
 tags:
 - tricks
 - Java
@@ -11,6 +11,10 @@ tags:
 [toc]
 
 <!--more-->
+
+# 02-14
+
+[PatMartin/Dex: Dex : The Data Explorer -- A data visualization tool written in Java/Groovy/JavaFX capable of powerful ETL and publishing web visualizations.](https://github.com/PatMartin/Dex)
 
 # 02-09
 

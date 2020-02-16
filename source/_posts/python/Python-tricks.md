@@ -2,7 +2,7 @@
 title: Python tricks
 date: 2020-01-15 16:36:18
 categories:
-- tricks
+- python
 tags:
 - tricks
 - Python
@@ -11,6 +11,10 @@ tags:
 [toc]
 
 <!--more-->
+
+# 02-14
+
+[Debugging in Python — A cakewalk with pdb - Python Features - Medium](https://medium.com/python-features/debugging-in-python-a-cakewalk-with-pdb-cd748ca62ee7)
 
 # 02-13
 

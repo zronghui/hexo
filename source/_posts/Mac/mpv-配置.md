@@ -3,9 +3,7 @@ title: mpv 配置
 description: mpv 配置
 date: 2020-02-09 21:09:59
 categories:
-- test
-- aa
-- b
+- Mac
 tags:
 ---
 

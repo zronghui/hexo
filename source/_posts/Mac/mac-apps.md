@@ -2,6 +2,7 @@
 title: mac apps
 date: 2020-01-25 17:19:24
 categories:
+- Mac
 tags:
 ---
 

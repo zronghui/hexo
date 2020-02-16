@@ -17,6 +17,18 @@ tags:
 
 
 
+[OXYGEN - hand drawn style diagrams generator](https://jeasonstudio.github.io/oxygen-demo/)
+
+手绘风格流程图
+
+[Snip](https://mathpix.com/)
+
+<img src="https://cdn.nlark.com/yuque/0/2020/jpeg/84141/1581649500635-84c1edf5-1daf-4adf-948c-1c55c078eda4.jpeg" alt="img" style="zoom: 33%;" />
+
+
+
+将打印的数学公式转成 LaTex 代码的工具。
+
 在线office编辑： [http://yiqixie.com](https://link.zhihu.com/?target=http%3A//yiqixie.com)
 
 在线latex编辑: [Overleaf, Online LaTeX Editor](https://link.zhihu.com/?target=http%3A//www.overleaf.com)

@@ -3,6 +3,7 @@ title: Mac config backup plan
 description: Mac config backup plan
 date: 2020-02-09 22:33:21
 categories:
+- Mac
 tags:
 ---
 

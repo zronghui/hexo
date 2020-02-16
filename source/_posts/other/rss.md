@@ -19,6 +19,8 @@ tags:
 
 ~~[The Old Reader](https://theoldreader.com/)~~
 
+[Home Page - AZ Reader](http://azreader.net/)
+
 ### Mac 
 
 Reeder
@@ -49,8 +51,14 @@ Reeder
 
 ### 生成 RSS
 
+[Feeds | FeedOcean](https://feedocean.com/account)
+
+限量 20 个，操作简单
+
 [Full RSS - Full text rss feed generator 100% success & free](https://www.freefullrss.com/)
 [Feed43 : Zronghui's feeds](https://feed43.com/users/zronghui)
+
+无限数量，较复杂
 
 ### 相关教程
 
@@ -61,6 +69,8 @@ Reeder
 [RSS定制个人高质量信息流 - 简书](https://www.jianshu.com/p/b9f14d8218bf)
 
 [生成和订阅任意网站RSS工具-实现RSS全文,邮箱和手机APP提醒](https://wzfou.com/rss-any/)
+
+[RSS 工具大全 – 幻璧](https://blog.wizos.me/20180412-134.html)
 
 
 
