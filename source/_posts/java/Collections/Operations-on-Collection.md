@@ -5,7 +5,6 @@ date: 2020-02-16 16:48:33
 categories:
 - java
 - Collections
-- Operations on Collection
 tags:
 ---
 

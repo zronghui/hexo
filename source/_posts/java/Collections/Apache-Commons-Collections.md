@@ -5,7 +5,6 @@ date: 2020-02-16 16:48:40
 categories:
 - java
 - Collections
-- Apache Commons Collections
 tags:
 ---
 
