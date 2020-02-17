@@ -14,43 +14,46 @@ tags:
 
 
 
-Lists
+# Lists
 
-List Implementations:
+## ~~List Implementations:~~
 
-A Guide to the Java LinkedList
-Guide to the Java ArrayList
-Immutable ArrayList in Java
-Guide to CopyOnWriteArrayList
-Multi Dimensional ArrayList in Java
-List Operations:
+~~A Guide to the Java LinkedList~~
+~~Guide to the Java ArrayList~~
+~~Immutable ArrayList in Java~~
+~~Guide to CopyOnWriteArrayList~~
+~~Multi Dimensional ArrayList in Java~~
 
-Converting Iterator to List
-Java – Get Random Item/Element From a List
-Partition a List in Java
-Removing all nulls from a List in Java
-Removing all duplicates from a List in Java
-Removing all Nulls from a List in Java
-Check If Two Lists are Equal in Java
-How to Find an Element in a List with Java
-Java List UnsupportedOperationException
-Copy a List to Another List in Java
-Remove All Occurrences of a Specific Value from a List
-Add Multiple Items to an Java ArrayList
-Remove the First Element from a List
-Ways to Iterate Over a List in Java
-Intersection of Two Lists in Java
+## List Operations:
 
-Sets
+~~Converting Iterator to List~~
+~~Java – Get Random Item/Element From a List~~
+~~Partition a List in Java~~
 
-Set Implementations:
+~~Removing all nulls from a List in Java~~
+~~Removing all duplicates from a List in Java~~
+~~Removing all Nulls from a List in Java~~
+~~Check If Two Lists are Equal in Java~~
+
+~~How to Find an Element in a List with Java~~
+~~Java List UnsupportedOperationException~~
+~~Copy a List to Another List in Java~~
+~~Remove All Occurrences of a Specific Value from a List~~
+~~Add Multiple Items to an Java ArrayList~~
+~~Remove the First Element from a List~~
+~~Ways to Iterate Over a List in Java~~
+~~Intersection of Two Lists in Java~~
+
+# Sets
+
+## Set Implementations:
 
 A Guide to TreeSet in Java
 A Guide to HashSet in Java
 
-Maps
+# Maps
 
-Map Implementations:
+## Map Implementations:
 
 The Java HashMap Under the Hood
 A Guide to TreeMap in Java
@@ -63,7 +66,8 @@ A Guide to LinkedHashMap in Java
 A Guide to EnumMap
 Immutable Map Implementations in Java
 A Guide to Java HashMap
-Map Operations:
+
+## Map Operations:
 
 How to Store Duplicate Keys in a Map in Java?
 Initialize a HashMap in Java
@@ -71,7 +75,7 @@ Merging Two Maps with Java 8
 Sort a HashMap in Java
 Comparing Two HashMaps in Java
 
-Queues
+# Queues
 
 Guide to PriorityBlockingQueue in Java
 Guide to java.util.concurrent.BlockingQueue
@@ -81,7 +85,7 @@ Guide to DelayQueue
 Introduction to the Java ArrayDeque
 Guide to the Java Queue Interface
 
-Convert Collections
+# Convert Collections
 
 Converting between an Array and a List in Java
 Converting Between an Array and a Set in Java
@@ -90,7 +94,7 @@ Convert a Map to an Array, List or Set in Java
 How to Convert List to Map in Java
 Map to String Conversion in Java
 
-Operations on Collection
+# Operations on Collection
 
 The Difference Between Collection.stream().forEach() and Collection.forEach()
 Sorting in Java
@@ -107,7 +111,7 @@ A Guide to Iterator in Java
 Getting the Size of an Iterable in Java
 Removing Elements from Java Collections
 
-Apache Commons Collections
+# Apache Commons Collections
 
 Apache Commons Collections Bag
 Apache Commons Collections SetUtils
@@ -117,14 +121,14 @@ A Guide to Apache Commons Collections CollectionUtils
 Apache Commons Collections MapUtils
 Guide to Apache Commons CircularFifoQueue
 
-Guava Collections
+# Guava Collections
 
 Guava Collections Cookbook
 Guide to Guava Multimap
 Guava – Join and Split Collections
 Guide to Guava Table
 
-Other Collections
+# Other Collections
 
 Introduction to Eclipse Collections
 Introduction to PCollections
