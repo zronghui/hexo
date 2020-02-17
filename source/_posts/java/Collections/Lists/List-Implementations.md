@@ -70,10 +70,16 @@ ListUtils.unmodifiableList(list);
 
 **Iterating Over CopyOnWriteArrayList While Inserting**
 
+when we create an iterator for the *CopyOnWriteArrayList,* we get an immutable snapshot of the data in the list at the time *iterator()* was called.
+
+```java
+assertThat(result).containsOnly(1, 3, 5, 8);  // ?
+```
+
 
 
 **Removing While Iterating Is Not Allowed**
 
-
+允许修改元素，但是不允许删除
 
 ## [Multi Dimensional ArrayList in Java](https://www.baeldung.com/java-multi-dimensional-arraylist)
