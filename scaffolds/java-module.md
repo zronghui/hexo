@@ -8,9 +8,6 @@ description: {{ title }}
 
 [toc]
 
-
-# {module name}
-
 ## maven
 
 ```xml
