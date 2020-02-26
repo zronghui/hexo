@@ -157,8 +157,7 @@ https://ihaoming.top/archives/9a935f57.html
 [Next 解决 Busuanzi 统计浏览失效 | G加菲](https://www.gmlyo.com/2018/12/02/Next-%E8%A7%A3%E5%86%B3-Busuanzi-%E7%BB%9F%E8%AE%A1%E6%B5%8F%E8%A7%88%E5%A4%B1%E6%95%88/)
 
 ### 文章置顶
-[解决Hexo博客文章置顶问题 - 简书](https://www.jianshu.com/p/42a4efcdf8d7
-)
+[Hexo文章置顶的方法 - 简书](https://www.jianshu.com/p/bdd1239863de)
 ### 侧边栏添加自定义文件夹
 [【Hexo + Next】侧边栏添加自定义文件夹（如友链）_Spr Chan的博客-CSDN博客](https://blog.csdn.net/weixin_43971764/article/details/97644190)
 ### Archive页面显示文章数量
