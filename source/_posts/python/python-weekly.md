@@ -11,14 +11,6 @@ tags:
 
 <!--more-->
 
-[Better Python tracebacks with Rich](https://www.willmcgugan.com/blog/tech/post/better-python-tracebacks-with-rich/)
-
-类似于 pretty_errors
-
-[JustPy](https://justpy.io/#/)
-
-仅用 Python 写网页
-
 [vardbg](https://pythonweekly.us2.list-manage.com/track/click?u=e2e180baf855ac797ef407fc7&id=39edfd28ec&e=65b1feb216)
 A simple Python debugger and profiler that generates animated visualizations of program flow, useful for algorithm learning.
 
